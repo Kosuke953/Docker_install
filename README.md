@@ -11,6 +11,7 @@ macOS Monterey
 
 エラー
 You don't have write access to　/Users/my-user-name/.docker/contexts　Delete it or fix its permissions before restarting Docker Desktop.
+
 注）my-user-nameはPC所有者の名前
 
 権限の問題の様子。
