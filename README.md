@@ -14,8 +14,10 @@ You don't have write access to　/Users/my-user-name/.docker/contexts　Delete i
 
 注）my-user-nameはPC所有者の名前
 
+
 権限の問題の様子。
 エラーコードをそのまま検索して、下記のURLを参考に対処した。
+
 https://github.com/lando/lando/issues/2780
 
 コマンドは２つ試した
