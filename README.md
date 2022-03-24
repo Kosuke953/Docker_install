@@ -7,14 +7,15 @@ MacBook Pro 13-inch, 2016
 macOS Monterey
 バージョン　12.2.1
 
-### Dockerインストールの際にエラーが出てつまずいたのでメモ
+## Dockerインストールの際にエラーが出てつまずいたのでメモ
 
-エラー
+### エラー
+
 You don't have write access to　/Users/my-user-name/.docker/contexts　Delete it or fix its permissions before restarting Docker Desktop.
 
 注）my-user-nameはPC所有者の名前
 
-
+### 対処
 権限の問題の様子。
 エラーコードをそのまま検索して、下記のURLを参考に対処した。
 
