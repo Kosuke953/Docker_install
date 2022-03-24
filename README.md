@@ -1,4 +1,5 @@
 # Dockerインストールの際にエラーが出てつまずいたのでメモ
+以下、対処方法など
 
 ## PC
 MacBook Pro 13-inch, 2016
@@ -6,8 +7,6 @@ MacBook Pro 13-inch, 2016
 ## OS
 macOS Monterey
 バージョン　12.2.1
-
-## Dockerインストールの際にエラーが出てつまずいたのでメモ
 
 ### エラー
 
